@@ -1,4 +1,4 @@
-var daySum = 0;
+let daySum = 0;
 
 let records = []
 let brecords = []
